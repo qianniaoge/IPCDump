@@ -7,7 +7,7 @@ require (
 	github.com/guardicore/ipcdump/internal/events v0.0.0-00010101000000-000000000000
 	github.com/iovisor/gobpf v0.0.0-20200614202714-e6b321d32103
 	github.com/mitchellh/go-ps v1.0.0
-	golang.org/x/sys v0.0.0-20201024232916-9f70ab9862d5
+	golang.org/x/sys v0.1.0
 	honnef.co/go/netdb v0.0.0-20150201073656-a416d700ae39
 )
 
